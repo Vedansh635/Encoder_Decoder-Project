@@ -8,7 +8,7 @@ This Python program provides a simple text encoding and decoding functionality. 
 2. Enter the text you want to encode or decode. <br>
 3. The program will output the encoded or decoded text. <br>
 
-# Encoding Scheme. <br>
+# Encoding Scheme <br>
 - The encoding scheme works by taking each word in the input text and applying the following rules: <br>
 
 If the word has 3 or more characters, it generates a random string of 26 characters, takes the first 3 characters of the random string, appends the word (excluding the first character), appends the first character of the word, and finally appends the next 3 characters of the random string.
