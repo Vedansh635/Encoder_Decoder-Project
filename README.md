@@ -1,4 +1,4 @@
-# Encoder and Decoder-Project 
+# Project-Description
 
 # Overview
 This Python program provides a simple text encoding and decoding functionality. It takes user input and applies a custom encoding scheme to scramble the text, and also provides a decoding function to reverse the process.
